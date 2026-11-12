@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Connect Colours</string>
+    <string name="module_description">适用于Color OS13的系统改造模块。</string>
+    <string-array name="xposed_scope">
+        <item>android</item>
+        <item>com.android.launcher</item>
+        <item>com.oplus.screenshot</item>
+        <item>com.android.systemui</item>
+        <item>com.coloros.smartsidebar</item>
+        <item>com.android.settings</item>
+        <item>com.oplus.wirelesssettings</item>
+        <item>com.oplus.ota</item>
+        <item>com.android.stk</item>
+        <item>com.android.stk2</item>
+    </string-array>
+</resources>

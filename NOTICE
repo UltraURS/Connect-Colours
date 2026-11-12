@@ -1,0 +1,17 @@
+Connect Colours
+Copyright (C) 2026 UltraURS and contributors.
+
+Original project source code is licensed under the GNU General Public License,
+version 3 only (SPDX-License-Identifier: GPL-3.0-only). See LICENSE.
+
+This project was developed with assistance from OpenAI GPT / Codex.
+This attribution does not imply official affiliation, endorsement, or warranty.
+
+Third-party dependencies retain their own licenses and notices. Xposed API is
+a compile-only dependency and is not bundled in the APK. JUnit and Robolectric
+are test dependencies and are not bundled in the APK.
+
+The module icon and background illustrations were supplied by the maintainer.
+Their original authors are not identified in the project records. Third-party
+artwork and trademarks remain the property of their respective rights holders;
+this project's source-code license does not grant additional rights in them.

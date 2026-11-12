@@ -1,0 +1,14 @@
+.gradle/
+.tooling/
+local.properties
+**/build/
+dist/
+framework/
+docs/images/
+*.jks
+*.keystore
+*.p12
+*.pem
+*.key
+*.log
+__pycache__/
