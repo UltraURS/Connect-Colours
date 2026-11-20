@@ -6,16 +6,9 @@
 
 ## AI 辅助开发与免责声明
 
-本项目是由 UltraURS 提出需求，使用 OpenAI 的 GPT 模型及 Codex 辅助迭代制作的 **vibe coding 产物**。方案分析、代码、测试与文档包含 AI 生成或修改的内容，可能存在缺陷、遗漏和系统兼容性问题；本地测试通过不代表已经在所有设备上验证。
+本项目是使用 OpenAI 的 GPT 模型及 Codex 辅助迭代制作的 **vibe coding 产物**。方案分析、代码、测试与文档包含 AI 生成或修改的内容，可能存在缺陷、遗漏和系统兼容性问题；本地测试通过不代表已经在所有设备上验证。
 
 这是面向特定 ColorOS 13 固件的实验性 LSPosed 模块，会改变系统应用行为。安装前请阅读适配版本和恢复方法，并自行备份重要数据。项目按 GPLv3 以“现状”提供，不提供质量、适用性或稳定性保证，具体以 [LICENSE](LICENSE) 为准。本项目由 UltraURS 维护，并非 OpenAI、OPPO、ColorOS 或 LSPosed 的官方项目，也不代表这些主体提供背书。
-
-## Contributors
-
-- [UltraURS](https://github.com/UltraURS)：项目维护、需求设计、真机反馈与版本发布。
-- [OpenAI](https://openai.com/)（GPT / Codex）：辅助方案分析、代码生成与修改、测试和文档编写。
-
-贡献方式及署名说明见 [CONTRIBUTORS.md](CONTRIBUTORS.md)。依赖与素材说明见 [NOTICE](NOTICE)；第三方依赖、插画及商标的权利属于各自权利人，源码协议不授予额外的第三方素材权利。
 
 ## 版本与安装
 
